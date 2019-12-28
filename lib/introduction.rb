@@ -21,10 +21,9 @@ def introduction_with_language_optional(name,language = "Ruby")
 end
 
 
-
-
-
-
+introduction ("Josh")
+introduction_with_language ("Josh", "Ruby")
+introduction_with_language_optional("Josh")
 
 
 
