@@ -4,14 +4,11 @@
 # in order to complete the rest of this course and be ready for the next course!
 
 
-def introduction(Charles)
-  puts " Hi, my name is #{Charles}"
+def introduction(name)
+  puts " Hi, my name is #{name}"
 end
 
-
-
-
-
+introduction ("Charles")
 
 
 
