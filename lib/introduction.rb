@@ -8,8 +8,6 @@ def introduction(Charles)
   puts " Hi, my name is #{Charles}"
 end
 
-introduction (Charles)
-
 
 
 
